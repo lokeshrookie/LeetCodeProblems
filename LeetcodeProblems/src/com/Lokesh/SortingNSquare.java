@@ -1,3 +1,4 @@
+package com.Lokesh;
 
 public class SortingNSquare {
     public int[] sortedSquares(int[] nums) {
